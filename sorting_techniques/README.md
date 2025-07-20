@@ -1,8 +1,10 @@
-#Sorting Algorithms
+# 📂 Sorting Algorithms
 
 This folder contains implementations of important sorting algorithms in C++. These are fundamental for understanding how data can be organized and manipulated efficiently.
 
-##Sorting Techniques Covered
+---
+
+## 📝 Sorting Techniques Covered
 
 1. **Bubble Sort**
    - Compares adjacent elements and swaps them if they are in the wrong order.
@@ -38,6 +40,7 @@ This folder contains implementations of important sorting algorithms in C++. The
    - Worst Case: O(n²)
    - Space: O(log n)
 
+---
 
 ## 📌 When to Use What?
 
@@ -46,6 +49,7 @@ This folder contains implementations of important sorting algorithms in C++. The
 - Use **Quick Sort** for large datasets where average performance is prioritized.
 - Use **Bubble/Selection Sort** for learning and understanding sorting logic — not recommended for real use.
 
+---
 
 ## 📁 Folder Contents
 
@@ -59,5 +63,7 @@ Each file contains a clean C++ implementation of the corresponding sorting algor
 
 ---
 
-THANKYOU
+THANKYOU<br>
 If you find it helpful, give a ⭐ and feel free to contribute or connect!
+
+
